@@ -25,4 +25,3 @@ but not in pandas or vice versa?
 #### Starter Code
 [See starter code here](./code/starter-code/w2-1.4-starter.ipynb).
 
-> [Solution Code](./code/solution-code/w2-1.4-solution.ipynb)
